@@ -22,7 +22,11 @@ Zip up the folder with your web application when you are finished and upload it 
 
 ### How to run the app
 
-- Export the source code from zip file.
+- If received as compressed file, export the source code from zip file.
+- If not, clone the source code from this like:
+
+  [task-management-app](https://github.com/elmoya/task-management-app)
+
 - Use terminal and navigate to the folder where the source code was extracted.
 - Check if you have these versions installed in your system:
 
